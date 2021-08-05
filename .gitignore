@@ -1,0 +1,2 @@
+#ignorar todo lo que es .log
+*.log
